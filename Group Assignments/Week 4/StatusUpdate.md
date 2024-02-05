@@ -1,4 +1,4 @@
-LA County Oil Wells
+[LA County Oil Wells](https://github.com/katiegreenler/up221_LACountyOilWells/tree/main)
 ## Roles:
 **Katie**: Communicator/Manager
 - [ ] Scheduling meetings, setting up documents and monitoring assignment requirements
