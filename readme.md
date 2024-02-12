@@ -49,4 +49,6 @@ Bhavna Shamasunder and Jill E. Johnston, 2023: The Imperative of Equitable Prote
 
 González, D. J. X., Morton, C. M., Hill, L. A. L., Michanowicz, D. R., Rossi, R. J., Shonkoff, S. B. C., et al. (2023). Temporal trends of racial and socioeconomic disparities in population exposures to upstream oil and gas development in California. GeoHealth, 7, e2022GH000690. https://doi.org/10.1029/2022GH000690
 
+Kirkeby, M. (2022). State Income Limits for 2022. California Department of Housing and Community Development. https://www.hcd.ca.gov/docs/grants-and-funding/inc2k22.pdf
+
  
