@@ -1,0 +1,613 @@
+[33mcommit b9f8b12f4df35c016cc3087b899a9666b25e3ea9[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 0df9dfb 6a5eb36
+Author: katiegreenler <155845998+katiegreenler@users.noreply.github.com>
+Date:   Sun Mar 17 12:29:13 2024 -0700
+
+    Merge pull request #1 from katiegreenler/topic/final-updates-katie
+    
+    loop final updates
+
+[33mcommit 6a5eb360f0d3c4acee35e31eb631b523f38fc84e[m[33m ([m[1;31morigin/topic/final-updates-katie[m[33m, [m[1;32mtopic/final-updates-katie[m[33m)[m
+Author: Katie Greenler <kathryn.greenler@gmail.com>
+Date:   Sun Mar 17 19:15:00 2024 +0000
+
+    loop final updates
+
+[33mcommit 0df9dfb85a7ce5ca0f4d028f56a5499fae32cd2e[m
+Author: maddyab <155775855+maddyab@users.noreply.github.com>
+Date:   Sun Mar 17 09:36:36 2024 -0700
+
+    changing color of scatterplot
+
+[33mcommit caf148bb72cd013627f87ee7ec48e1bff31b2f19[m
+Author: maddyab <155775855+maddyab@users.noreply.github.com>
+Date:   Sun Mar 17 09:36:07 2024 -0700
+
+    Delete Group Assignments/Final/CESmeans.png
+    
+    Error in png
+
+[33mcommit fdd231cadcbd6903781e4222653475f6a22ad6a6[m
+Author: Div1ne95 <156024315+Div1ne95@users.noreply.github.com>
+Date:   Thu Mar 14 15:12:46 2024 -0700
+
+    Add files via upload
+
+[33mcommit 587596d6be8db6b5b54dee8be440dd208cd0422e[m
+Author: Div1ne95 <156024315+Div1ne95@users.noreply.github.com>
+Date:   Thu Mar 14 15:10:38 2024 -0700
+
+    Create delete.me
+
+[33mcommit 3a04e8d00c44d404602676451f970bb19f4c76a1[m
+Author: maddyab <mabryant@g.ucla.edu>
+Date:   Wed Mar 13 05:25:35 2024 +0000
+
+    Updates
+    
+    Updated based on previous discussion
+
+[33mcommit 9380c1b4312040c66c859761501ce7f35a4dad7b[m
+Author: maddyab <mabryant@g.ucla.edu>
+Date:   Wed Mar 13 05:25:03 2024 +0000
+
+    MB CES and IW files updates
+    
+    Updates from previous assignment
+
+[33mcommit 31977a8fefb69678f9ba0ca85dd04ed151ae8318[m
+Author: maddyab <155775855+maddyab@users.noreply.github.com>
+Date:   Mon Mar 11 17:45:49 2024 -0700
+
+    Rename CalEnviroscreenstats_MB to CalEnviroscreenstats_MB.ipynb
+
+[33mcommit ecc6284546039af297fa8ea0ca4625665f5c9bb4[m
+Author: maddyab <mabryant@g.ucla.edu>
+Date:   Sat Mar 9 21:27:42 2024 +0000
+
+    calenviroscreenstats
+    
+    Mean comparison, scatterplot, and bar graph of high oil wells vs low oil wells
+
+[33mcommit 98186816f6e4d075aa9918e2d360d453f7643370[m
+Author: maddyab <155775855+maddyab@users.noreply.github.com>
+Date:   Sat Mar 2 21:48:12 2024 -0800
+
+    A (somewhat failed) attempt at autocorrelation
+
+[33mcommit daa96151e093255722287dbcf046e2d6ecb5fea4[m
+Author: Div1ne95 <156024315+Div1ne95@users.noreply.github.com>
+Date:   Thu Feb 29 16:55:11 2024 -0800
+
+    Add files via upload
+
+[33mcommit 6e66feeeb00c76f8c68dd1f465ff54fa52f3c653[m
+Author: Div1ne95 <156024315+Div1ne95@users.noreply.github.com>
+Date:   Thu Feb 29 16:43:54 2024 -0800
+
+    Add files via upload
+
+[33mcommit 8f6f2d256244757deb7248b67d9a4fa8e34ecc02[m
+Author: Div1ne95 <156024315+Div1ne95@users.noreply.github.com>
+Date:   Thu Feb 29 16:42:32 2024 -0800
+
+    Add files via upload
+
+[33mcommit a654b44d5f15e5cfdca0556bdf2144d54ef6a7ec[m
+Author: Connorkenway123 <lrgarci2@g.ucla.edu>
+Date:   Mon Feb 26 04:22:50 2024 -0800
+
+    Add files via upload
+
+[33mcommit 8482dc2fe14800d370b852feda22c6214538311f[m
+Author: Myranda8 <myri96@g.ucla.edu>
+Date:   Mon Feb 26 00:01:51 2024 -0800
+
+    Group Assignment 3
+
+[33mcommit f4b24737d5391d85f7c41cae8209bffa9863c832[m
+Author: Myranda8 <myri96@g.ucla.edu>
+Date:   Mon Feb 26 00:00:39 2024 -0800
+
+    zip of notebook
+
+[33mcommit acfddb53f8dea3ba61b116b373a92cff8257aa80[m
+Author: Katie Greenler <kathryn.greenler@gmail.com>
+Date:   Mon Feb 26 01:59:06 2024 +0000
+
+    KG commit
+
+[33mcommit d77564cb1dde9dd362710ee25bf608ec6cb703a7[m
+Author: maddyab <mabryant@g.ucla.edu>
+Date:   Sun Feb 25 20:51:15 2024 +0000
+
+    MB's function and for loop for inglewood
+
+[33mcommit 5ab692ee141d32bd91b3d7747cd9b66c7373c7f5[m
+Author: maddyab <mabryant@g.ucla.edu>
+Date:   Sun Feb 25 15:14:48 2024 +0000
+
+    Fixing sjoin
+    
+    fixed sjoin
+
+[33mcommit c189c4506049c5a9d6fafb759085148ed6dc2786[m
+Author: maddyab <mabryant@g.ucla.edu>
+Date:   Sun Feb 25 07:46:50 2024 +0000
+
+    Group assignment 3
+    
+    Added subfolder for clean midterm files and MB updated calenviroscreen, still struggling with connecting it to the oil wells data
+
+[33mcommit 4c877dbdaf9fc51e3085d5efc1224d5e4e85be1a[m
+Author: maddyab <155775855+maddyab@users.noreply.github.com>
+Date:   Fri Feb 23 17:32:20 2024 -0800
+
+    Add files via upload
+
+[33mcommit 7d9ebbb69a3109a68d76c9f2000d79a6c56ea532[m
+Author: maddyab <mabryant@g.ucla.edu>
+Date:   Fri Feb 23 23:47:38 2024 +0000
+
+    group repo test
+    
+    upload of MB calenviroscreen data in current state for discussion today (hopefully with ability for me to edit without downloading and reuploading in the future
+
+[33mcommit 5491bc043b56057dcf82131272ee87f0eab0cc3d[m
+Author: maddyab <155775855+maddyab@users.noreply.github.com>
+Date:   Thu Feb 22 17:20:34 2024 -0800
+
+    Create Data
+
+[33mcommit 13c79e3ae838e08a1cef2f5abd2f7bbab9055425[m
+Author: maddyab <155775855+maddyab@users.noreply.github.com>
+Date:   Thu Feb 22 17:20:08 2024 -0800
+
+    Create Group assignment 3
+
+[33mcommit cede23596bf3e070baf2e3542f0b7860e352fc26[m
+Author: Myranda8 <myri96@g.ucla.edu>
+Date:   Mon Feb 12 19:30:16 2024 -0800
+
+    Add files via upload
+    
+    plugged vs active oil well chart
+
+[33mcommit 89872f6f306114533befdd08b57647b414824718[m
+Author: Katie Greenler <kathryn.greenler@gmail.com>
+Date:   Mon Feb 12 23:11:59 2024 +0000
+
+    name updates
+
+[33mcommit 184af5e91c50759a686cd5231432f8936dd8931e[m
+Author: katiegreenler <155845998+katiegreenler@users.noreply.github.com>
+Date:   Mon Feb 12 15:07:54 2024 -0800
+
+    upload slides
+
+[33mcommit 406a7cae4626ef4aee0bc3c9453cb5912d268b1e[m
+Author: Katie Greenler <kathryn.greenler@gmail.com>
+Date:   Mon Feb 12 21:01:35 2024 +0000
+
+    update
+
+[33mcommit 748f7e94db19e3f0dfcf392a2664b7bc8983eed2[m
+Author: Div1ne95 <156024315+Div1ne95@users.noreply.github.com>
+Date:   Sun Feb 11 23:56:23 2024 -0800
+
+    Update readme.md
+
+[33mcommit b0782ebc0373bc9394211f1eabf93bd222b8a3d4[m
+Author: Div1ne95 <156024315+Div1ne95@users.noreply.github.com>
+Date:   Sun Feb 11 23:41:11 2024 -0800
+
+    Add files via upload
+
+[33mcommit ae380372783391ca200ae2a68382ca95581a02b3[m
+Author: Div1ne95 <156024315+Div1ne95@users.noreply.github.com>
+Date:   Sun Feb 11 23:39:33 2024 -0800
+
+    Add files via upload
+
+[33mcommit 2b0ba6b4ffca1d1332a2c1eaad5192ca2735a5f4[m
+Author: Div1ne95 <156024315+Div1ne95@users.noreply.github.com>
+Date:   Sun Feb 11 23:38:54 2024 -0800
+
+    Delete Group Assignments/Midterm files/Oil wells + Race.ipynb
+
+[33mcommit ce76e212a56a2d1afbe1269f7c654d5017ef781f[m
+Author: Div1ne95 <156024315+Div1ne95@users.noreply.github.com>
+Date:   Sun Feb 11 22:48:21 2024 -0800
+
+    Add files via upload
+
+[33mcommit 72ce21d25f543f614d2c3a18407527495bee3549[m
+Author: Myranda8 <myri96@g.ucla.edu>
+Date:   Sun Feb 11 21:13:51 2024 -0800
+
+    Update readme.md
+
+[33mcommit b6e990d2524167da2fcd013e330b7983ee9c035e[m
+Author: Myranda8 <myri96@g.ucla.edu>
+Date:   Sun Feb 11 21:06:55 2024 -0800
+
+    Update readme.md
+
+[33mcommit 79747db68d77bf8d5a6c92b3041e787327fc47d4[m
+Author: Myranda8 <myri96@g.ucla.edu>
+Date:   Sun Feb 11 21:02:50 2024 -0800
+
+    Add files via upload
+
+[33mcommit 8737b67cfa581fbe091ff748236c99502511d89c[m
+Author: Myranda8 <myri96@g.ucla.edu>
+Date:   Sun Feb 11 20:55:06 2024 -0800
+
+    Delete Group Assignments/Midterm files/OilWells+Income.ipynb
+
+[33mcommit 6fcaec2960990c15451631d2af21a6602d4406e6[m
+Author: Connorkenway123 <lrgarci2@g.ucla.edu>
+Date:   Sun Feb 11 18:55:34 2024 -0800
+
+    Add files via upload
+
+[33mcommit 67f0fee4099cfb6956da5b6ac47a6b146d8bafdd[m
+Author: Connorkenway123 <lrgarci2@g.ucla.edu>
+Date:   Sun Feb 11 18:54:49 2024 -0800
+
+    Add files via upload
+
+[33mcommit 13f9168af0ba8004854470bd23a6a30473c47652[m
+Author: maddyab <155775855+maddyab@users.noreply.github.com>
+Date:   Sun Feb 11 15:00:25 2024 -0800
+
+    Add files via upload
+    
+    Updated file on disability
+
+[33mcommit 6839ae73f4034d91020f6347ed1b2686b2a4f5bc[m
+Author: maddyab <155775855+maddyab@users.noreply.github.com>
+Date:   Sun Feb 11 14:59:36 2024 -0800
+
+    Delete Group Assignments/Midterm files/Notes
+    
+    Deleting empty doc
+
+[33mcommit d7fba6c88bf93b07d8224cfa8c0010b9fef5adde[m
+Author: maddyab <155775855+maddyab@users.noreply.github.com>
+Date:   Sun Feb 11 14:59:18 2024 -0800
+
+    Delete Group Assignments/Midterm files/Disabilitydocforediting.ipynb
+    
+    Deleting old version of disability + oil wells
+
+[33mcommit 7ec3c2f7aba8791eb77c3848989684bb9ae85fd3[m
+Author: maddyab <155775855+maddyab@users.noreply.github.com>
+Date:   Sun Feb 11 14:58:52 2024 -0800
+
+    Delete Group Assignments/Midterm files/Oilwellstest.ipynb
+    
+    Uploaded cleaned up version
+
+[33mcommit 2063bea5d36983da2379c6e0918291beb45dc120[m
+Author: maddyab <155775855+maddyab@users.noreply.github.com>
+Date:   Sun Feb 11 13:35:09 2024 -0800
+
+    Add files via upload
+
+[33mcommit 17783730e17855dd04ae207f9161a04bf8900546[m
+Author: maddyab <155775855+maddyab@users.noreply.github.com>
+Date:   Sun Feb 11 13:16:09 2024 -0800
+
+    Update readme.md
+
+[33mcommit 377038a57a28cd850597639fe6ee38ceada31da2[m
+Author: maddyab <155775855+maddyab@users.noreply.github.com>
+Date:   Sun Feb 11 13:09:08 2024 -0800
+
+    Update readme.md
+    
+    Shifted around the last section to add more of a heading for the zooming into neighborhoods element
+
+[33mcommit 93b4c6df71777c5d872512dc21d99389e349ba0d[m
+Author: Myranda8 <myri96@g.ucla.edu>
+Date:   Sat Feb 10 22:03:55 2024 -0800
+
+    Add files via upload
+
+[33mcommit 6efce1e12943f5b50a3cbd46e73e6b3517f4fc72[m
+Author: Connorkenway123 <lrgarci2@g.ucla.edu>
+Date:   Sat Feb 10 19:38:49 2024 -0800
+
+    Add files via upload
+
+[33mcommit 9ab1fbe3ff4e68bd4f8eb476cf51906091a2e57a[m
+Author: katiegreenler <155845998+katiegreenler@users.noreply.github.com>
+Date:   Sat Feb 10 18:04:12 2024 -0800
+
+    partially updated readme.md
+
+[33mcommit 654cd91c51f3e2f799d8dc435e0ef7b2dc9fbb2d[m
+Author: katiegreenler <155845998+katiegreenler@users.noreply.github.com>
+Date:   Sat Feb 10 17:52:10 2024 -0800
+
+    Rename readme.md to oldreadme.md
+
+[33mcommit 09ef2818230106bf441f99241fd62e4318c43c73[m
+Author: Katie Greenler <kathryn.greenler@gmail.com>
+Date:   Sun Feb 11 01:43:22 2024 +0000
+
+    educ midterm
+
+[33mcommit f4ad52f940cd31a98bf68442fc19d1f862de45dc[m
+Author: Katie Greenler <kathryn.greenler@gmail.com>
+Date:   Fri Feb 9 05:01:36 2024 +0000
+
+    education map
+
+[33mcommit 0449c37be45dfff67ca22a5ab48a4109df7a47d8[m
+Author: Katie Greenler <kathryn.greenler@gmail.com>
+Date:   Fri Feb 9 01:28:07 2024 +0000
+
+    update midterm folder
+
+[33mcommit cc64cdc5dd4794627fa67e238239db9058d3fda7[m
+Author: maddyab <155775855+maddyab@users.noreply.github.com>
+Date:   Wed Feb 7 20:24:27 2024 -0800
+
+    Add files via upload
+
+[33mcommit a2885da142dd455da4a930aad78238610ef22ad3[m
+Author: maddyab <155775855+maddyab@users.noreply.github.com>
+Date:   Tue Feb 6 14:09:01 2024 -0800
+
+    Add files via upload
+
+[33mcommit 32daefc196f3bbb4b18bee949cd445a40141458e[m
+Author: maddyab <155775855+maddyab@users.noreply.github.com>
+Date:   Tue Feb 6 14:08:12 2024 -0800
+
+    Create Notes
+
+[33mcommit 2656a28fbb8cd235dea7f21580587f9f3c0310ae[m
+Author: maddyab <155775855+maddyab@users.noreply.github.com>
+Date:   Tue Feb 6 14:07:52 2024 -0800
+
+    Delete Group Assignments/Midterm files
+
+[33mcommit 93afce6977ddeebc3e0e1312f55ea5a6202d82d6[m
+Author: maddyab <155775855+maddyab@users.noreply.github.com>
+Date:   Tue Feb 6 14:07:38 2024 -0800
+
+    Delete Group Assignments/Midterm files and graphics
+
+[33mcommit 2492055a4d3f0c4b0886fd1b860e17e67b2c8601[m
+Author: maddyab <155775855+maddyab@users.noreply.github.com>
+Date:   Tue Feb 6 14:06:39 2024 -0800
+
+    Create  folder
+
+[33mcommit 76cfc646ab1856fbc3ed1c6e8a2406b0613ccc28[m
+Author: maddyab <155775855+maddyab@users.noreply.github.com>
+Date:   Tue Feb 6 14:03:11 2024 -0800
+
+    Create Midterm files and graphics
+
+[33mcommit 549a747a46ee09a1b0ae292cbddfb800c588537a[m
+Author: katiegreenler <155845998+katiegreenler@users.noreply.github.com>
+Date:   Sun Feb 4 19:52:09 2024 -0800
+
+    Update StatusUpdate.md
+
+[33mcommit 3fa4dc2fafe4f22fa9eb6647601dec196891e869[m
+Author: katiegreenler <155845998+katiegreenler@users.noreply.github.com>
+Date:   Sun Feb 4 19:50:58 2024 -0800
+
+    Update StatusUpdate.md
+
+[33mcommit a5631ee7d362b131d02323db72085343b94a5f3f[m
+Author: katiegreenler <155845998+katiegreenler@users.noreply.github.com>
+Date:   Sun Feb 4 19:43:55 2024 -0800
+
+    Rename StatusUpdate to StatusUpdate.md
+
+[33mcommit 321bb50d5c4570e31bf147ba88928d0fc950f578[m
+Author: katiegreenler <155845998+katiegreenler@users.noreply.github.com>
+Date:   Sun Feb 4 19:43:32 2024 -0800
+
+    Create StatusUpdate
+
+[33mcommit 4f9b148fd452ea3a3cfae3d5f80ce19466fa25e5[m
+Author: Connorkenway123 <lrgarci2@g.ucla.edu>
+Date:   Sun Jan 28 23:55:50 2024 -0800
+
+    Add files via upload
+
+[33mcommit 941b3177568ce94084da19e6f1ae16d13fa27709[m
+Author: katiegreenler <155845998+katiegreenler@users.noreply.github.com>
+Date:   Sun Jan 28 23:20:11 2024 -0800
+
+    Update readme.md
+
+[33mcommit e35245400b3148477e6c3fdca42bfa943e462d77[m
+Author: Div1ne95 <156024315+Div1ne95@users.noreply.github.com>
+Date:   Sun Jan 28 22:22:16 2024 -0800
+
+    Add files via upload
+
+[33mcommit bdedd76ed03fe4d3ae63539b224b9d4fd0bc25e9[m
+Author: Div1ne95 <156024315+Div1ne95@users.noreply.github.com>
+Date:   Sun Jan 28 22:20:48 2024 -0800
+
+    Add files via upload
+
+[33mcommit 37fbbdb8b69308d2e535deedb28060d4fa007796[m
+Author: katiegreenler <155845998+katiegreenler@users.noreply.github.com>
+Date:   Sun Jan 28 21:36:59 2024 -0800
+
+    Delete Group Assignments/Group Assignment #2: Census Profiles/.ipynb_checkpoints/EducationalAttainment_KG-checkpoint.ipynb
+
+[33mcommit b214ccb010b1781d0ef414e6d2293ee014ae1d87[m
+Author: katiegreenler <155845998+katiegreenler@users.noreply.github.com>
+Date:   Sun Jan 28 21:32:13 2024 -0800
+
+    readme.md test update
+
+[33mcommit cce60cefe0532d712de9d9965eb075cf86836e35[m
+Merge: c02ec3e 6e97692
+Author: Katie Greenler <kathryn.greenler@gmail.com>
+Date:   Mon Jan 29 05:08:49 2024 +0000
+
+    merge changes
+
+[33mcommit c02ec3ec0fd09507d2384d05f180cd11302cd570[m
+Author: Katie Greenler <kathryn.greenler@gmail.com>
+Date:   Mon Jan 29 05:06:15 2024 +0000
+
+    upload education
+
+[33mcommit 6e97692fc07ffaed58bc754c7cac537e7bb66b74[m
+Author: Myranda8 <myri96@g.ucla.edu>
+Date:   Sun Jan 28 21:00:06 2024 -0800
+
+    Add files via upload
+
+[33mcommit 30925ecd97a18925576529c15b0ec3393aec794b[m
+Author: Myranda8 <myri96@g.ucla.edu>
+Date:   Sun Jan 28 20:54:08 2024 -0800
+
+    Add files via upload
+
+[33mcommit 9755ea6bab68dbcfd23f4e1d5e8ef9b6192d0a48[m
+Author: Myranda8 <myri96@g.ucla.edu>
+Date:   Sun Jan 28 20:53:46 2024 -0800
+
+    Delete Group Assignments/Group Assignment #2: Census Profiles/Data/HouseholdIncomeData.csv
+
+[33mcommit 96f13f581e6c3fdb68b0da66d8a0eeb5ad6b9dcc[m
+Author: Myranda8 <myri96@g.ucla.edu>
+Date:   Sun Jan 28 20:52:55 2024 -0800
+
+    Add files via upload
+
+[33mcommit 0a70b45faf6fd59ef4fd53ee02f2003bca790455[m
+Author: maddyab <155775855+maddyab@users.noreply.github.com>
+Date:   Sun Jan 28 20:06:52 2024 -0800
+
+    Add files via upload
+
+[33mcommit 86929f8823d286e295e17f69d694748947b85d0e[m
+Author: maddyab <155775855+maddyab@users.noreply.github.com>
+Date:   Sun Jan 28 20:05:21 2024 -0800
+
+    Add files via upload
+
+[33mcommit fb497631f1f4481ce3a21f7e94808f10df0b1d10[m
+Author: maddyab <155775855+maddyab@users.noreply.github.com>
+Date:   Sun Jan 28 20:04:40 2024 -0800
+
+    Delete Group Assignments/Group Assignment #2: Census Profiles/Health directory
+    
+    Removing health folder to add consistent naming convention
+
+[33mcommit 8b19795474a660d9e5f5a08d2632a60336a8c35b[m
+Author: maddyab <155775855+maddyab@users.noreply.github.com>
+Date:   Sun Jan 28 19:52:34 2024 -0800
+
+    Add files via upload
+
+[33mcommit 57547997210ee1e23abadc075a78fe1338df2e35[m
+Author: Katie Greenler <kathryn.greenler@gmail.com>
+Date:   Mon Jan 29 03:44:59 2024 +0000
+
+    educ in progress
+
+[33mcommit 97718869baed760b81ce7bb5538dca0dab54a763[m
+Author: Katie Greenler <kathryn.greenler@gmail.com>
+Date:   Mon Jan 29 00:31:07 2024 +0000
+
+    education
+
+[33mcommit fba2c5facc8d296be425e2fadba9a72d1c145c5b[m
+Author: Katie Greenler <kathryn.greenler@gmail.com>
+Date:   Sun Jan 28 22:38:15 2024 +0000
+
+    education
+
+[33mcommit b110e19a0933f73135f768ab39f5d2abf7f181c2[m
+Author: Katie Greenler <kathryn.greenler@gmail.com>
+Date:   Sun Jan 28 22:03:01 2024 +0000
+
+    updates to files
+
+[33mcommit bfe290c448476a34b77bc79c6ee4ac6fe08972b5[m
+Author: katiegreenler <155845998+katiegreenler@users.noreply.github.com>
+Date:   Sun Jan 28 13:05:34 2024 -0800
+
+    Create readme
+
+[33mcommit 0d0d0679170b587431e3575eb85701b33d60284a[m
+Author: katiegreenler <155845998+katiegreenler@users.noreply.github.com>
+Date:   Sun Jan 28 13:02:54 2024 -0800
+
+    Delete Group Assignments/readme.md
+
+[33mcommit d410b344dd089c67c26d078d5526eb4042c23b19[m
+Author: Katie Greenler <kathryn.greenler@gmail.com>
+Date:   Sun Jan 28 20:53:42 2024 +0000
+
+    Moved folder into group assignments folder
+
+[33mcommit a9317a2917e0da46180b0993460325c93657945a[m
+Author: katiegreenler <155845998+katiegreenler@users.noreply.github.com>
+Date:   Sun Jan 28 12:48:38 2024 -0800
+
+    Create folder
+
+[33mcommit dd0cf81d2f43813d45cfc47dd7cddd17c061c360[m
+Author: katiegreenler <155845998+katiegreenler@users.noreply.github.com>
+Date:   Sun Jan 28 12:44:59 2024 -0800
+
+    Create folder
+
+[33mcommit 9062a3e5077a3cbd9c42d83ded42dc72a990a49d[m
+Author: katiegreenler <155845998+katiegreenler@users.noreply.github.com>
+Date:   Sun Jan 28 12:44:30 2024 -0800
+
+    delete
+
+[33mcommit ffa70296abb8bb531013a2b6408932ba9072837c[m
+Author: katiegreenler <155845998+katiegreenler@users.noreply.github.com>
+Date:   Sun Jan 28 12:40:50 2024 -0800
+
+    Create readme.md
+
+[33mcommit 70aec5467ea621fccb1954c37758cc15baabb2db[m
+Author: katiegreenler <155845998+katiegreenler@users.noreply.github.com>
+Date:   Sun Jan 28 12:39:21 2024 -0800
+
+    delete
+
+[33mcommit 1dbbac1433c1cbb0355936ccc6399106f13c9157[m
+Author: katiegreenler <155845998+katiegreenler@users.noreply.github.com>
+Date:   Sun Jan 28 12:34:46 2024 -0800
+
+    assignment 2
+
+[33mcommit 3115079c66fe8e30796f0513f01b6a34d6828f64[m
+Author: katiegreenler <155845998+katiegreenler@users.noreply.github.com>
+Date:   Sun Jan 28 11:11:42 2024 -0800
+
+    Delete README.md
+
+[33mcommit 7421452685742cf6f7080d533ca3c8518fad3683[m
+Author: katiegreenler <155845998+katiegreenler@users.noreply.github.com>
+Date:   Sun Jan 28 11:10:41 2024 -0800
+
+    create readme.md
+
+[33mcommit 98d5c6156f711920d71eaa2131fd472ea7736125[m
+Author: katiegreenler <155845998+katiegreenler@users.noreply.github.com>
+Date:   Sun Jan 28 10:58:43 2024 -0800
+
+    Initial commit
